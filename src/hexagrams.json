@@ -1,0 +1,322 @@
+{
+  "1": {
+    "name": "Qian / The Creative",
+    "keywords": ["originate", "unmixed force", "clear sky before the storm", "first cause"],
+    "polarity": "expansive"
+  },
+  "2": {
+    "name": "Kun / The Receptive",
+    "keywords": ["open ground", "hold without grasping", "carry forward", "field that enables"],
+    "polarity": "contractive"
+  },
+  "3": {
+    "name": "Zhun / Difficult Beginning",
+    "keywords": ["tangled emergence", "first pressure", "seed in hard soil", "not yet legible"],
+    "polarity": "expansive"
+  },
+  "4": {
+    "name": "Meng / The Unformed",
+    "keywords": ["early not-knowing", "before the map", "the pupil before the lesson", "open error"],
+    "polarity": "contractive"
+  },
+  "5": {
+    "name": "Xu / The Threshold",
+    "keywords": ["necessary waiting", "the storm not yet arrived", "readiness without motion", "charged stillness"],
+    "polarity": "contractive"
+  },
+  "6": {
+    "name": "Song / The Conflict",
+    "keywords": ["irreconcilable claims", "friction made visible", "the case that cannot close", "contested ground"],
+    "polarity": "expansive"
+  },
+  "7": {
+    "name": "Shi / The Marshaling",
+    "keywords": ["coordinated force", "discipline under pressure", "the field organized toward purpose", "collective will"],
+    "polarity": "expansive"
+  },
+  "8": {
+    "name": "Bi / The Alliance",
+    "keywords": ["voluntary convergence", "held together by trust", "mutual orientation", "the bond that precedes strategy"],
+    "polarity": "balanced"
+  },
+  "9": {
+    "name": "Xiao Xu / Small Accumulation",
+    "keywords": ["minor restraint", "pressure not yet released", "gathering before the break", "the tightening"],
+    "polarity": "expansive"
+  },
+  "10": {
+    "name": "Lv / The Treading",
+    "keywords": ["careful advance", "the path with consequence", "conduct under watch", "stepping where it counts"],
+    "polarity": "contractive"
+  },
+  "11": {
+    "name": "Tai / The Flowing",
+    "keywords": ["forces in right relation", "the open channel", "conditions aligned", "ease through structure"],
+    "polarity": "balanced"
+  },
+  "12": {
+    "name": "Pi / The Blockage",
+    "keywords": ["closed circuit", "stagnant field", "communication severed", "forces moving away from each other"],
+    "polarity": "contractive"
+  },
+  "13": {
+    "name": "Tong Ren / The Congregation",
+    "keywords": ["shared signal", "assembly toward common purpose", "the open gathering", "collective legibility"],
+    "polarity": "expansive"
+  },
+  "14": {
+    "name": "Da You / The Abundance",
+    "keywords": ["wide possession", "capacity exceeding immediate need", "the full archive", "more than enough"],
+    "polarity": "expansive"
+  },
+  "15": {
+    "name": "Qian / The Modest",
+    "keywords": ["deliberate reduction", "power without display", "the low place that holds weight", "earned quietness"],
+    "polarity": "contractive"
+  },
+  "16": {
+    "name": "Yu / The Momentum",
+    "keywords": ["enthusiasm as force", "movement that draws others", "the readied spring", "energy before the form"],
+    "polarity": "expansive"
+  },
+  "17": {
+    "name": "Sui / The Following",
+    "keywords": ["adaptive pursuit", "reading what leads", "the field that changes with its signal", "responsive motion"],
+    "polarity": "balanced"
+  },
+  "18": {
+    "name": "Gu / The Spoiled",
+    "keywords": ["inherited damage", "what was left unaddressed", "rot with a source", "repair as act of reckoning"],
+    "polarity": "contractive"
+  },
+  "19": {
+    "name": "Lin / The Approach",
+    "keywords": ["something nearing", "the threshold about to change", "presence before contact", "arrival in progress"],
+    "polarity": "expansive"
+  },
+  "20": {
+    "name": "Guan / The Observation",
+    "keywords": ["still seeing", "the elevated view", "witness before judgment", "pattern made visible through distance"],
+    "polarity": "contractive"
+  },
+  "21": {
+    "name": "Shi Ke / The Biting Through",
+    "keywords": ["force through obstruction", "necessary severance", "cutting to the core", "the obstacle that must be broken"],
+    "polarity": "expansive"
+  },
+  "22": {
+    "name": "Bi / The Adornment",
+    "keywords": ["form given to content", "grace as signal", "the surface that carries meaning", "beauty as civic language"],
+    "polarity": "balanced"
+  },
+  "23": {
+    "name": "Bo / The Stripping",
+    "keywords": ["what falls away", "reduction to the essential", "the structure laid bare", "loss that clarifies"],
+    "polarity": "contractive"
+  },
+  "24": {
+    "name": "Fu / The Return",
+    "keywords": ["the first turn back", "movement reversed toward origin", "the cycle finding its ground again", "renewal through return"],
+    "polarity": "expansive"
+  },
+  "25": {
+    "name": "Wu Wang / The Unentangled",
+    "keywords": ["action without agenda", "the unexpected arrival", "innocence in the field of consequence", "what comes unbidden"],
+    "polarity": "expansive"
+  },
+  "26": {
+    "name": "Da Xu / The Great Storing",
+    "keywords": ["compressed potential", "the archive under pressure", "held power awaiting release", "restraint as accumulation"],
+    "polarity": "contractive"
+  },
+  "27": {
+    "name": "Yi / The Nourishing",
+    "keywords": ["what sustains", "careful intake", "the source tended", "feeding what must survive"],
+    "polarity": "contractive"
+  },
+  "28": {
+    "name": "Da Guo / The Critical Mass",
+    "keywords": ["the beam under too much weight", "excess approaching rupture", "the moment before structural failure", "load without relief"],
+    "polarity": "expansive"
+  },
+  "29": {
+    "name": "Kan / The Abyss",
+    "keywords": ["repeated entrapment", "the gorge that keeps returning", "danger as condition not event", "navigating without bottom"],
+    "polarity": "contractive"
+  },
+  "30": {
+    "name": "Li / The Clinging",
+    "keywords": ["dependent brightness", "the flame that needs fuel", "clarity that requires attachment", "light with a cost"],
+    "polarity": "contractive"
+  },
+  "31": {
+    "name": "Xian / The Reciprocity",
+    "keywords": ["mutual pull", "fields affecting each other", "the influence before intention", "resonance between bodies"],
+    "polarity": "expansive"
+  },
+  "32": {
+    "name": "Heng / The Persevering",
+    "keywords": ["duration as practice", "constancy under drift", "the signal that holds frequency", "endurance with form"],
+    "polarity": "balanced"
+  },
+  "33": {
+    "name": "Dun / The Strategic Retreat",
+    "keywords": ["withdrawal as wisdom", "yielding ground to preserve force", "the exit that is not defeat", "tactical disappearance"],
+    "polarity": "contractive"
+  },
+  "34": {
+    "name": "Da Zhuang / The Great Invigorating",
+    "keywords": ["force at full expression", "power meeting no resistance", "the field fully charged", "momentum without obstruction"],
+    "polarity": "expansive"
+  },
+  "35": {
+    "name": "Jin / The Advancing",
+    "keywords": ["clear progress", "movement toward the light source", "the recognized advance", "forward without friction"],
+    "polarity": "expansive"
+  },
+  "36": {
+    "name": "Ming Yi / The Dimming",
+    "keywords": ["intelligence operating under cover", "brightness concealed for survival", "hidden capacity", "the signal kept low"],
+    "polarity": "contractive"
+  },
+  "37": {
+    "name": "Jia Ren / The Household",
+    "keywords": ["internal order", "the roles that hold a system", "trust at close range", "the field that begins at home"],
+    "polarity": "contractive"
+  },
+  "38": {
+    "name": "Kui / The Divergence",
+    "keywords": ["forces moving apart", "the estrangement with information in it", "opposition as data", "difference that cannot yet be bridged"],
+    "polarity": "contractive"
+  },
+  "39": {
+    "name": "Jian / The Impediment",
+    "keywords": ["the path that resists", "halting as signal", "the limp that changes direction", "obstruction worth reading"],
+    "polarity": "contractive"
+  },
+  "40": {
+    "name": "Jie / The Release",
+    "keywords": ["pressure dissolved", "the knot finally opened", "relief as turning point", "the untangling"],
+    "polarity": "expansive"
+  },
+  "41": {
+    "name": "Sun / The Reduction",
+    "keywords": ["deliberate decrease", "what is given up to strengthen the whole", "loss as offering", "the simplified form"],
+    "polarity": "contractive"
+  },
+  "42": {
+    "name": "Yi / The Increase",
+    "keywords": ["augmentation in motion", "the field expanding through use", "gain that asks to be redistributed", "growth with direction"],
+    "polarity": "expansive"
+  },
+  "43": {
+    "name": "Guai / The Breakthrough",
+    "keywords": ["the decisive parting", "resolution that requires announcement", "the break made in daylight", "a line drawn clearly"],
+    "polarity": "expansive"
+  },
+  "44": {
+    "name": "Gou / The Encounter",
+    "keywords": ["the unexpected meeting", "contact before readiness", "what comes to find you", "the unbidden arrival"],
+    "polarity": "expansive"
+  },
+  "45": {
+    "name": "Cui / The Clustering",
+    "keywords": ["convergence under a signal", "density forming around a center", "the gathering with weight", "mass that implies purpose"],
+    "polarity": "expansive"
+  },
+  "46": {
+    "name": "Sheng / The Rising",
+    "keywords": ["upward without resistance", "effort meeting receptive ground", "slow ascent with root", "the push that is answered"],
+    "polarity": "expansive"
+  },
+  "47": {
+    "name": "Kun / The Exhaustion",
+    "keywords": ["resource at its limit", "the field drained", "confinement without visible exit", "endurance past its means"],
+    "polarity": "contractive"
+  },
+  "48": {
+    "name": "Jing / The Well",
+    "keywords": ["the unchanged source", "what is drawn from does not diminish", "depth as civic resource", "the structure that outlasts its users"],
+    "polarity": "balanced"
+  },
+  "49": {
+    "name": "Ge / The Molting",
+    "keywords": ["the old skin released", "transformation by necessity", "the system that must change to survive", "revision at the root"],
+    "polarity": "expansive"
+  },
+  "50": {
+    "name": "Ding / The Cauldron",
+    "keywords": ["transformation through holding", "the container that changes what it holds", "nourishment requiring process", "the vessel as instrument"],
+    "polarity": "expansive"
+  },
+  "51": {
+    "name": "Zhen / The Shock",
+    "keywords": ["sudden activation", "the tremor that reorders", "fear followed by clarity", "the jolt that restores attention"],
+    "polarity": "expansive"
+  },
+  "52": {
+    "name": "Gen / The Stillness",
+    "keywords": ["the mountain that does not respond", "knowing when to stop", "rest as active state", "the held position"],
+    "polarity": "contractive"
+  },
+  "53": {
+    "name": "Jian / The Gradual",
+    "keywords": ["slow rightful advance", "development that cannot be rushed", "the infiltration of time", "progress without pressure"],
+    "polarity": "expansive"
+  },
+  "54": {
+    "name": "Gui Mei / The Subordinate",
+    "keywords": ["movement under constraint", "the secondary position with its own power", "friction as teacher", "surrender that is not defeat"],
+    "polarity": "contractive"
+  },
+  "55": {
+    "name": "Feng / The Zenith",
+    "keywords": ["peak fullness", "the moment of maximum signal", "abundance at its crest", "the height that already contains descent"],
+    "polarity": "expansive"
+  },
+  "56": {
+    "name": "Lv / The Wandering",
+    "keywords": ["the unrooted passage", "moving through without belonging", "the stranger's knowledge", "transit as condition"],
+    "polarity": "contractive"
+  },
+  "57": {
+    "name": "Xun / The Penetrating",
+    "keywords": ["gentle persistent entry", "the wind that finds every gap", "influence through repetition", "soft force that does not announce itself"],
+    "polarity": "expansive"
+  },
+  "58": {
+    "name": "Dui / The Opening",
+    "keywords": ["joyful exchange", "the field made permeable", "pleasure as signal of alignment", "the open mouth, the open gate"],
+    "polarity": "expansive"
+  },
+  "59": {
+    "name": "Huan / The Dispersal",
+    "keywords": ["the dissolving of what had hardened", "separation as relief", "rigidity released to flow", "the breakup that enables movement"],
+    "polarity": "contractive"
+  },
+  "60": {
+    "name": "Jie / The Calibration",
+    "keywords": ["the necessary limit", "moderation as precision", "the boundary that makes the system work", "articulation through constraint"],
+    "polarity": "contractive"
+  },
+  "61": {
+    "name": "Zhong Fu / The Inner Signal",
+    "keywords": ["trust at the center", "the frequency that holds without transmission", "sincerity as structural force", "what is true before it is spoken"],
+    "polarity": "balanced"
+  },
+  "62": {
+    "name": "Xiao Guo / The Small Exceeding",
+    "keywords": ["the minor overstep", "just past the mark", "small surplus with consequence", "the threshold crossed by a degree"],
+    "polarity": "expansive"
+  },
+  "63": {
+    "name": "Ji Ji / The Aftermath",
+    "keywords": ["order achieved", "the moment after completion", "stability that already contains its undoing", "the finished state that begins to drift"],
+    "polarity": "contractive"
+  },
+  "64": {
+    "name": "Wei Ji / The Almost",
+    "keywords": ["the edge of completion", "potential at its fullest", "the unfinished that hums with possibility", "not yet — and therefore everything still open"],
+    "polarity": "expansive"
+  }
+}

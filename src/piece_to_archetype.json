@@ -1,0 +1,166 @@
+{
+  "P": {
+    "title": "Orphan",
+    "archetype": "Pawn",
+    "core_function": "survives",
+    "gift": "Accumulates power through repetition and endurance; reads the field through proximity; knows scarcity as a form of intelligence.",
+    "shadow": "Mistaking stillness for safety; compressing possibility into compliance; surviving the crisis while forgetting what was worth surviving for.",
+    "verbs":  [
+      "endure",
+      "persist",
+      "adapt",
+      "advance",
+      "hold",
+      "wait",
+      "recover",
+      "absorb",
+      "accumulate",
+      "witness"
+    ],
+    "imagery": [
+      "seed in hard soil",
+      "rationed light",
+      "patched clothing",
+      "a narrow corridor",
+      "scrap-built shelter",
+      "counting steps",
+      "small fire at night",
+      "callused hands"
+    ]
+  },
+  "R": {
+    "title": "Warrior",
+    "archetype": "Rook",
+    "core_function": "defends",
+    "gift": "Converts open space into structure; holds the line so others can move; makes safety legible to the whole field.",
+    "shadow": "Fortifying what should be released; mistaking the perimeter for the purpose; building walls after the crisis has already entered.",
+    "verbs": [
+      "defend",
+      "fortify",
+      "anchor",
+      "secure",
+      "intercept",
+      "hold the line",
+      "reinforce",
+      "dominate",
+      "block",
+      "claim"
+    ],
+    "imagery": [
+      "watchtower",
+      "gate and lock",
+      "straight road",
+      "stone wall",
+      "barricade",
+      "signal flag",
+      "armor plating",
+      "checkpoint"
+    ]
+  },
+  "B": {
+    "title": "Magician",
+    "archetype": "Bishop",
+    "core_function": "reframes",
+    "gift": "Moves along the invisible axis; finds the angle that transforms meaning without moving the center; makes pattern legible where others see only noise.",
+    "shadow": "Cleverness that avoids commitment; interpretation weaponized as distance; reframing so fluently that nothing is ever faced directly.",
+    "verbs": [
+      "reframe",
+      "translate",
+      "reveal",
+      "decode",
+      "redirect",
+      "consecrate",
+      "subvert",
+      "interpret",
+      "triangulate",
+      "alchemize"
+    ],
+    "imagery": [
+      "lens and prism",
+      "cipher wheel",
+      "incense smoke",
+      "chalk diagram",
+      "mirror corridor",
+      "ritual circle",
+      "hidden passage",
+      "two candles crossing light"
+    ]
+  },
+  "N": {
+    "title": "Wanderer",
+    "archetype": "Knight",
+    "core_function": "disrupts",
+    "gift": "Breaks the predictive model by refusing its geometry; arrives where it was not anticipated; survives by being unreadable to the field.",
+    "shadow": "Restlessness performed as strategy; disruption without destination; becoming so irregular that no collective can hold you.",
+    "verbs": [
+      "disrupt",
+      "swerve",
+      "leap",
+      "ambush",
+      "bypass",
+      "unsettle",
+      "feint",
+      "reposition",
+      "probe",
+      "vanish"
+    ],
+    "imagery": [
+      "unexpected detour",
+      "footprints in fog",
+      "broken map",
+      "side door ajar",
+      "switchback trail",
+      "stray signal",
+      "nomad camp",
+      "a jump cut in film"
+    ]
+  },
+  "Q": {
+    "title": "Ruler",
+    "archetype": "Queen",
+    "core_function": "commands",
+    "gift": "Integrates and activates; holds the widest view while remaining capable of precise action; mobilizes the field rather than just reading it.",
+    "shadow": "Collapsing plurality into a single will; moving so fast the field cannot respond; command that mistakes speed for wisdom.",
+    "verbs": [
+      "command",
+      "coordinate",
+      "execute",
+      "claim",
+      "direct",
+      "pressure",
+      "enforce",
+      "decide",
+      "oversee",
+      "strike"
+    ],
+    "imagery": [
+      "crown and seal",
+      "dispatches",
+      "courtroom",
+      "banner over a city",
+      "ledger of names",
+      "throne as workstation",
+      "strategic map table",
+      "a single voice ending debate"
+    ]
+  },
+  "K": {
+    "title": "Altruist",
+    "archetype": "King",
+    "core_function": "sustains continuity",
+    "gift": "Holds the system past its breaking point; absorbs accumulated risk so the field can persist; knows that to preserve is sometimes the most radical act.",
+    "shadow": "Continuity as inertia; maintaining a brittle order past its usefulness; absorbing so much that nothing is left to transmit forward.",
+    "verbs": [
+      "sustain",
+      "stabilize",
+      "protect",
+      "inherit",
+      "consolidate",
+      "endure",
+      "accept burden",
+      "preserve",
+      "step forward",
+      "legitimize"
+    ]
+  }
+}

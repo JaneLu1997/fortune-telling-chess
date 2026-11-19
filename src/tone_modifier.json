@@ -1,0 +1,17 @@
+{
+  "affirm": {
+    "verb_overrides": ["advance", "claim", "cut", "declare", "press", "commit"],
+    "adjectives": ["bold", "clear", "decisive", "direct", "unhesitating"],
+    "endings": ["commit", "escalate", "consolidate", "close distance", "force clarity"]
+  },
+  "neutral": {
+    "verb_overrides": ["hold", "calibrate", "continue", "position", "observe", "stabilize"],
+    "adjectives": ["steady", "measured", "pragmatic", "grounded", "precise"],
+    "endings": ["keep pressure", "stay flexible", "test lightly", "maintain structure", "wait for signal"]
+  },
+  "caution": {
+    "verb_overrides": ["scan", "soften", "wait", "safeguard", "withdraw", "reduce"],
+    "adjectives": ["measured", "guarded", "patient", "conservative", "contained"],
+    "endings": ["reduce exposure", "buy time", "test", "protect the core", "avoid commitment"]
+  }
+}
